@@ -10,12 +10,12 @@ permalink:        pretty
 title:            Nivethitha S
 tagline:          'Software Developer @ Sutherland'
 description:      'Software Developer @ Sutherland'
-url:              http://hyde.getpoole.com
+url:              https://nivi.dev
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nivethitha'
+  url:            https://github.com/nivitvr
 
 gems: [jekyll-paginate]
 paginate: 5
@@ -25,4 +25,4 @@ paginate_path: "page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/nivitvr/nivitvr.github.io
