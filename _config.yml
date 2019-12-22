@@ -11,7 +11,7 @@ title:            Nivethitha S
 tagline:          'Software Developer @ Sutherland'
 description:      'Software Developer @ Sutherland'
 url:              https://nivi.dev
-baseurl:          /
+baseurl:          https://nivi.dev/
 
 author:
   name:           'Nivethitha'
